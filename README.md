@@ -89,15 +89,15 @@ df = pd.read_csv(file_path)
 ```
 
 - Confusion matrices are plotted using Seaborn.
-  * Random Forest Model
-![Figure_1](https://github.com/user-attachments/assets/a059cdd6-ab17-4dd1-9aff-4e01008a322f)
+  - Random Forest Model.<br>
+    ![Figure_1](https://github.com/user-attachments/assets/400c0e69-ee44-40dc-8cee-2d833580fb8f)
 
-  * XGBoost Model Evaluation
-![Figure_2](https://github.com/user-attachments/assets/bb89c11b-8bc9-46f4-adf2-1c66d54849d6)
+  - XGBoost Model.<br>
+    ![Figure_2](https://github.com/user-attachments/assets/2d86b423-335a-4780-8a50-0e78d9094462)
 
 
-- Feature importance is analyzed using XGBoost.
-![Figure_3](https://github.com/user-attachments/assets/b378c650-43f5-458e-886c-fca856899ac0)
+- Feature importance for XGBoost will be displayed.
+![Figure_3](https://github.com/user-attachments/assets/dcb71253-8849-4547-9dfb-a643b61330a8)
 
 
 ## Author
